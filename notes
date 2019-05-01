@@ -1,4 +1,4 @@
 1. lista sa o salvez intr-un array de obiecte
-2. o functie care sa adauge puncte la lista
+2. o functie care sa adauge obiecte in array
 3. structura obiectelor trebuie sa fie asa ca sa pot cauta punctul dupa ce l-am adaugat
-4. afisarea rezultatului cautat. La fel cu o funtie de cautare in arrayul de obiecte.
+4. afisarea rezultatului cautat. La fel cu o functie de cautare in arrayul de obiecte
