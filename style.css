@@ -1,0 +1,36 @@
+body{
+    background-color: bisque;
+    font-size: 26px;
+    text-align: center;
+    padding: 5px;
+    margin: 2px solid rgb(11, 12, 20);
+}
+
+body, h1{
+    color: rgb(44, 44, 46);
+}
+p{
+    color: rgb(44, 44, 46);
+}
+
+.add{
+    background-color: rgb(223, 206, 206);
+    width: 350px;
+    display: inline;
+    position: left;
+    border: 1px solid black;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+.search{
+    background-color: rgb(223, 206, 206);
+    width: 350px;
+    display: inline;
+    position: right;
+    margin-left: 100px;
+    border: 1px solid black;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
