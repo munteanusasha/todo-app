@@ -12,11 +12,13 @@ body, h1{
 p{
     color: rgb(44, 44, 46);
 }
+div{
+    display: inline;
+}
 
 .add{
     background-color: rgb(223, 206, 206);
     width: 350px;
-    display: inline;
     position: left;
     border: 1px solid black;
     padding-left: 10px;
@@ -26,7 +28,6 @@ p{
 .search{
     background-color: rgb(223, 206, 206);
     width: 350px;
-    display: inline;
     position: right;
     margin-left: 100px;
     border: 1px solid black;
