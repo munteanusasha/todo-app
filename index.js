@@ -1,10 +1,11 @@
-var todo = [{}];
+let todolist = [];
+let item = document.getElementsByClassName("updateTodo");
 
-function updateTodo(){
-    // todo.push({id: 0, title: "", done: false});
+function updateTodoList(){
+    
 }
 
-function searchTodo(){
+function searchInTodo(){
 
 }
 

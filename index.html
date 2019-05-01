@@ -15,14 +15,26 @@
        
        <p>Add a new item to your To-Do list</p>
        
-       <div class="add">
-            <input type="text">
+       <div>
+            <input type="text" class="updateTodo">
             <input type="submit" value="add" onclick="updateTodo()">
+            <div class="list">
+                <p>
+                    Your list is...
+                </p>
+
+            </div>
        </div>
         
-       <div class="search">
+       <div>
             <input type="text">
             <input type="submit" value="search" onclick="searchTodo()">
+            <div class="result">
+                <p>
+                    Result of search is...
+                </p>
+
+            </div>
        </div>
     </body>
 </html>
