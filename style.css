@@ -14,19 +14,6 @@ div{
     background-color: rgb(223, 206, 206);
     width: 350px;
     border: 1px solid black;
+    margin: 1px;
     display: inline-block;
-}
-
-.add{
-    position: left;
-    padding-left: 10px;
-    padding-bottom: 10px;
-}
-
-.search{
-    position: right;
-    margin-left: 100px;
-    padding-left: 10px;
-    padding-bottom: 10px;
-    padding-right: 10px;
 }
