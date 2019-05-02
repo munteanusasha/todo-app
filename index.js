@@ -4,7 +4,10 @@ let countId = 0;
 
 function updateTodo(){
     todolist.push({id:countId, item: item});
-    document.getElementsByClassName("list").innerHTML="";
+    var li = document.createElement("li");
+    li.innerHTML = todolist[item];
+    document.body.appendChild(li);
+    // document.getElementsByClassName("list").innerHTML="";
 }
 
 function searchInTodo(){
